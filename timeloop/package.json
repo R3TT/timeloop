@@ -6,6 +6,11 @@
   "scripts": {
     "test": "node ./test/test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/R3TT/timeloop.git",
+    "web": "https://github.com/R3TT/timeloop"
+  }
   "keywords": [
     "time",
     "loop",
