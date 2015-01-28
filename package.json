@@ -1,6 +1,6 @@
 {
   "name": "timeloop",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Timer system for managing time subscriptions and tracking time absolutes (deltaTime and such).",
   "main": "./lib/timeloop.js",
   "scripts": {
