@@ -34,3 +34,5 @@ by Rett Crocker
   * updated to support node and to act as a simple node module
 * 2015 - version 1.2.1
   * updated to be a true node module with support for npm
+* 2015 - version 1.2.2
+  * added link to github repo
