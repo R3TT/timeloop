@@ -36,5 +36,5 @@ by Rett Crocker
   * updated to be a true node module with support for npm
 * 2015 - version 1.2.3
   * added link to github repo
-* 2016 - version 1.3.1
+* 2016 - version 1.3.2
   * switched to setInterval rather than setTimeout (memory leak under certain conditions)
